@@ -8,4 +8,4 @@ end
 # => nil (return value)
 puts "You ate a total of #{levitation_force} hot dogs!"
 
-
+end
